@@ -1,0 +1,22 @@
+/* carbon.css */
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #f4f4f4;
+  color: #161616;
+}
+h1, h2 {
+  color: #0f62fe;
+  font-weight: 600;
+}
+.stButton > button {
+  background-color: #0f62fe;
+  color: white;
+  border-radius: 4px;
+  padding: 0.6rem 1.2rem;
+  font-weight: 500;
+}
+.stTextInput > div > input {
+  border: 1px solid #8d8d8d;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
